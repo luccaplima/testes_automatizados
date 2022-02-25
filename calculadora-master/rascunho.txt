@@ -1,0 +1,3 @@
+Novas features geram necessidade de testar o fluxo em todo o código
+Gera custo
+Testes automatizados reduzem custo e geram confiança
